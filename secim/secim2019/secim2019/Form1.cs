@@ -10,7 +10,7 @@ namespace secim2019
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-T11FMIO;Initial Catalog=secim2019udemy;Integrated Security=True;Encrypt=True;TrustServerCertificate=True");
+        SqlConnection baglanti = new SqlConnection("Data Source=;Initial Catalog=secim2019udemy;Integrated Security=True;Encrypt=True;TrustServerCertificate=True");
 
 
         private void btnoygiris_Click(object sender, EventArgs e)
