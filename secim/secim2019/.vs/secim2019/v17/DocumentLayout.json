@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|c:\\users\\nurhat\\onedrive - bing\u00F6l \u00FCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|solutionrelative:secim2019\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|solutionrelative:secim2019\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|solutionrelative:secim2019\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|solutionrelative:secim2019\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364D20E8-40E1-46EA-8639-3117A58832AE}|secim2019\\secim2019.csproj|solutionrelative:secim2019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGRAFIKLER.cs",
+              "DocumentMoniker": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\frmGRAFIKLER.cs",
+              "RelativeDocumentMoniker": "secim2019\\frmGRAFIKLER.cs",
+              "ToolTip": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\frmGRAFIKLER.cs",
+              "RelativeToolTip": "secim2019\\frmGRAFIKLER.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:19:29.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\Program.cs",
+              "RelativeDocumentMoniker": "secim2019\\Program.cs",
+              "ToolTip": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\Program.cs",
+              "RelativeToolTip": "secim2019\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAWwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:05:18.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\Form1.cs",
+              "RelativeDocumentMoniker": "secim2019\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\Form1.cs [Design]",
+              "RelativeToolTip": "secim2019\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:06:48.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\Form1.cs",
+              "RelativeDocumentMoniker": "secim2019\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\Form1.cs",
+              "RelativeToolTip": "secim2019\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:10:31.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGRAFIKLER.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\frmGRAFIKLER.cs",
+              "RelativeDocumentMoniker": "secim2019\\frmGRAFIKLER.cs",
+              "ToolTip": "C:\\Users\\Nurhat\\OneDrive - Bing\u00F6l \u00DCniversitesi\\c# klas\u00F6r\u00FCm\\secim2019\\secim2019\\frmGRAFIKLER.cs [Design]",
+              "RelativeToolTip": "secim2019\\frmGRAFIKLER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:52:56.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

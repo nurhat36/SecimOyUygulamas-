@@ -1,0 +1,11 @@
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\obj\Debug\secim2019.csproj.AssemblyReference.cache
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\obj\Debug\secim2019.Form1.resources
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\obj\Debug\secim2019.frmGRAFIKLER.resources
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\obj\Debug\secim2019.Properties.Resources.resources
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\obj\Debug\secim2019.csproj.GenerateResource.cache
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\obj\Debug\secim2019.csproj.CoreCompileInputs.cache
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\bin\Debug\secim2019.exe.config
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\bin\Debug\secim2019.exe
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\bin\Debug\secim2019.pdb
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\obj\Debug\secim2019.exe
+C:\Users\Nurhat\OneDrive - Bingöl Üniversitesi\c# klasörüm\secim2019\secim2019\obj\Debug\secim2019.pdb
